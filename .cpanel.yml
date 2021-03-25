@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/mj.jadegomezcomputer.com
+    - export DEPLOYPATH=/home/rkb9wst4at96/public_html/mj.jadegomezcomputer.com
     - /bin/cp index.html $DEPLOYPATH
